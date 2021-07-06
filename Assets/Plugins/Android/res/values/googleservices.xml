@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/gcm_defaultSenderId,@string/project_id,@string/default_web_client_id,@string/google_app_id" xmlns:tools="http://schemas.android.com/tools">
+ <string name="gcm_defaultSenderId" translatable="false">426012666184</string>
+<string name="default_web_client_id" translatable="false">426012666184-tskn9t31hm3j50hd6qd1i9c8nfkeqdq7.apps.googleusercontent.com</string>
+<string name="google_app_id" translatable="false">1:426012666184:android:b8aabd779bc318f3336b7d</string>
+</resources>

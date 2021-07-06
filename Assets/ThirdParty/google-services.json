@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "426012666184",
+    "project_id": "oylaa-e4710",
+    "storage_bucket": "oylaa-e4710.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426012666184:android:b8aabd779bc318f3336b7d",
+        "android_client_info": {
+          "package_name": "com.imyosoft.Oylaa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426012666184-tskn9t31hm3j50hd6qd1i9c8nfkeqdq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3Fm4pa0ktPPISzgvuQNC4q42Sr8HZYJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426012666184-tskn9t31hm3j50hd6qd1i9c8nfkeqdq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
