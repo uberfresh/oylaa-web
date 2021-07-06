@@ -1,2 +1,2 @@
-# oylaa-web
-Oylaa! Poll App(Turkish)
+# Unity Non-Game Poll App(Andorid-IOS)
+Oylaa!(TR-EN)
